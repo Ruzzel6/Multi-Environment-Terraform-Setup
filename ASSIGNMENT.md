@@ -1,6 +1,6 @@
 # Assignment: Cloud Infrastructure Provisioning with Terraform & GitHub Actions
 
-## Overview
+## 1.Overview
 
 In this assignment you will provision a production-grade cloud infrastructure on AWS using Terraform and automate it end-to-end with a GitHub Actions CI/CD pipeline. The reference implementation is the **zen-infra** repository.
 
